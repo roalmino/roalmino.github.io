@@ -42,18 +42,6 @@ a {
   margin-right: 30px;
 }
 
-.button {
-  background-color: #7d83ff;
-  display: inline-block;
-  padding: 17px 18px 17px 20px;
-  box-shadow: 5px 5px black;
-  margin-right: 0;
-  transition: background-color 100ms linear;
-}
-
-.button:hover {
-  background-color: #a8adff;
-}
 /* --------------------------------------------------- */
 div {
   display: flex;
@@ -64,20 +52,4 @@ section {
   display: inline-block;
   padding: 42px 47px 44px 40px;
   box-shadow: 10px 10px black;
-}
-
-.Headline {
-  font-family: 'Press Start 2p', sans-serif;
-  font-weight: 400;
-  font-size: 40px;
-  color: #7d83ff;
-  text-shadow: 4px 4px 0px #000000;
-}
-
-.Title {
-  font-family: 'Press Start 2p', sans-serif;
-  font-weight: 400;
-  font-size: 30px;
-  color: white;
-  text-shadow: 4px 4px 0px #000000;
 }
