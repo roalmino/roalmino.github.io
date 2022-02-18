@@ -1,10 +1,10 @@
-#box {
+.box {
   background-color: #3a4042;
   display: inline-block;
   padding: 42px 47px 44px 40px;
   box-shadow: 10px 10px black;
 }
 
-#box h1 {
+.box .headline {
   margin-bottom: 28px;
 }
