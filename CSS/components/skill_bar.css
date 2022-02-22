@@ -1,0 +1,15 @@
+.skills .container {
+  width: 320px;
+  height: 40px;
+  background-color: #fff;
+  border: 5px solid #000;
+}
+
+.skills .level {
+  height: 40px;
+  background-color: #7f7979;
+}
+
+.html {
+  width: 75%;
+}

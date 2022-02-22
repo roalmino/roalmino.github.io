@@ -1,7 +1,12 @@
 .title {
   font-family: 'Cormorant SC', sans-serif;
   font-weight: 400;
-  font-size: 30px;
+  font-size: 50px;
   color: white;
   text-shadow: 2px 2px 2px #000000;
+}
+
+.title.second {
+  text-shadow: none;
+  text-align: center;
 }
