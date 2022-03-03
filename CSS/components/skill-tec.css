@@ -4,14 +4,20 @@
   color: white;
 
   display: flex;
+  align-items: center;
 }
 
 .skill-tec img {
   margin-right: 10px;
+  width: 90px;
 }
 
 .skill-tec .right {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+}
+
+.skill-tec h3 {
+  margin-bottom: 10px;
 }

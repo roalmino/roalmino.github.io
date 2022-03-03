@@ -9,3 +9,14 @@
   column-count: 2;
   list-style: none;
 }
+
+.section.-second {
+  background-color: #000;
+}
+
+.section.-second .container {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-around;
+  /* margin: 50px auto 110px; */
+}

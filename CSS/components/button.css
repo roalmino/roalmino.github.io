@@ -13,3 +13,13 @@
 .button:hover {
   background-color: #e7b540;
 }
+
+.button.-second {
+  display: flex;
+  padding: 12px 15px 14px 20px;
+  box-sizing: border-box;
+  width: 280px;
+  height: 280px;
+  background-color: #7f7979;
+  box-shadow: 10px 10px #fff;
+}
