@@ -1,4 +1,4 @@
-.button {
+.main-button {
   background-color: #e0a61c;
   display: inline-block;
   padding: 17px 18px 17px 20px;
@@ -10,16 +10,7 @@
   font-size: 20px;
 }
 
-.button:hover {
+.main-button:hover {
   background-color: #e7b540;
 }
 
-.button.-second {
-  display: flex;
-  padding: 12px 15px 14px 20px;
-  box-sizing: border-box;
-  width: 280px;
-  height: 280px;
-  background-color: #7f7979;
-  box-shadow: 10px 10px #fff;
-}

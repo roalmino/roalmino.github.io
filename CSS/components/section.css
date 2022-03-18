@@ -1,8 +1,13 @@
 .section {
   padding-top: 50px;
   padding-bottom: 100px;
-  background-color: #e0a61c;
   border-bottom: 10px solid #7f7979;
+  background: linear-gradient(
+    185deg,
+    rgba(224, 166, 28, 1) 25%,
+    rgba(235, 179, 44, 1) 53%,
+    rgba(210, 156, 26, 1) 82%
+  );
 }
 
 .section ul {
@@ -10,11 +15,19 @@
   list-style: none;
 }
 
-.section.-second {
-  background-color: #000;
+.section.-secondBackground {
+  background: linear-gradient(
+    185deg,
+    rgba(0, 0, 0, 1) 41%,
+    rgba(14, 14, 14, 1) 88%
+  );
 }
 
-.section.-second .container {
+.section.-secondBorder {
+  border-bottom: 10px solid #7f7979;
+}
+
+.section.-secondBackground .container {
   display: flex;
   margin-top: 50px;
   justify-content: space-around;

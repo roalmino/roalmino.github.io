@@ -1,4 +1,4 @@
-.action::before {
+.navigation-action::before {
   content: '';
   display: inline-block;
   width: 10px;
@@ -7,7 +7,7 @@
   margin-right: 10px;
 }
 
-.action {
+.navigation-action {
   color: white;
   text-decoration: none;
   font-size: 20px;
