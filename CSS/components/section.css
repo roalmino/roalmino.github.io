@@ -26,10 +26,3 @@
 .section.-secondBorder {
   border-bottom: 10px solid #7f7979;
 }
-
-.section.-secondBackground .container {
-  display: flex;
-  margin-top: 50px;
-  justify-content: space-around;
-  /* margin: 50px auto 110px; */
-}

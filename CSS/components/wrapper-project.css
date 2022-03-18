@@ -1,0 +1,5 @@
+.wrapper-project {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-around;
+}
