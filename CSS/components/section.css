@@ -1,12 +1,14 @@
 .section {
   padding-top: 50px;
   padding-bottom: 100px;
-  border-bottom: 10px solid #7f7979;
+  border-bottom: 10px solid #ecf4ff;
+}
+
+.section.-firtBackground {
   background: linear-gradient(
     185deg,
-    rgba(224, 166, 28, 1) 25%,
-    rgba(235, 179, 44, 1) 53%,
-    rgba(210, 156, 26, 1) 82%
+    rgba(22, 53, 89, 1) 25%,
+    rgba(1, 2, 25, 1) 77%
   );
 }
 
@@ -16,13 +18,13 @@
 }
 
 .section.-secondBackground {
-  background: linear-gradient(
-    185deg,
-    rgba(0, 0, 0, 1) 41%,
-    rgba(14, 14, 14, 1) 88%
-  );
+  background-color: black;
 }
 
 .section.-secondBorder {
-  border-bottom: 10px solid #7f7979;
+  border-bottom: 10px solid #010219;
+}
+
+.section.-thirdBackground {
+  background-color: #8a95a5;
 }

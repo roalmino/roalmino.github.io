@@ -1,5 +1,5 @@
 .main-button {
-  background-color: #e0a61c;
+  background-color: #010219;
   display: inline-block;
   padding: 17px 18px 17px 20px;
   box-shadow: 5px 5px black;
@@ -11,6 +11,5 @@
 }
 
 .main-button:hover {
-  background-color: #e7b540;
+  background-color: #030545;
 }
-

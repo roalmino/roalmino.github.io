@@ -1,11 +1,11 @@
 .box {
-  background-color: #3a4042;
+  background-color: #ecf4ff;
   display: inline-block;
   padding: 42px 47px 44px 40px;
   box-shadow: 10px 10px black;
   text-align: center;
 }
 
-.box .headline {
+.box .main-title {
   margin-bottom: 28px;
 }

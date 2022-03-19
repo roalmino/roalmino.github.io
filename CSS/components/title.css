@@ -1,9 +1,14 @@
 .title {
-  font-family: 'Cormorant SC', sans-serif;
+  font-family: 'Press Start 2P', sans-serif;
   font-weight: 400;
-  font-size: 50px;
-  color: white;
+  font-size: 30px;
+  color: #ecf4ff;
   text-shadow: 2px 2px 2px #000000;
+}
+
+.title.-firt {
+  color: #163559;
+  font-size: 25px;
 }
 
 .title.second {
